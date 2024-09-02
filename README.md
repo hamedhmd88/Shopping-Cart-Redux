@@ -15,3 +15,4 @@
 
 #### Note: In the demo of this project, when you click on the link, a 404 page will be displayed. This is expected because it doesn't recognize the main route of the project. So, please remove /products from the URL, then press enter to reload the main page. Thank you!
 
+![project](./src/assets/Shopping-cart.jpg)
